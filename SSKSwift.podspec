@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = 'SSKSwift'
-  spec.version       = '1.0.0'
+  spec.version       = '1.1.0'
  spec.license      = { :type => 'MIT', :file => 'LICENSE.md' }
      spec.homepage     = 'https://github.com/dhruv500'
   spec.authors       = { 'Dhruv Jaiswal' => 'dhruvjaiswal5@gmail.com' }
